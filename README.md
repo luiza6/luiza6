@@ -5,8 +5,11 @@
 - :notebook_with_decorative_cover: Estou no 2 semestre do curso Tecnologia em Ciência de Dados da UNINTER :chart_with_downwards_trend:
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luiza6&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=1e8b93&text_color=666&icon_color=1e8b93&card_width=500" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiza6&layout=compact&langs_count=8&title_color=1e8b93&text_color=666&theme=transparent&hide_border=true&card_width=500" /></a> |
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luiza6&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiza6&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C-plus-plus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
