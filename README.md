@@ -1,9 +1,6 @@
 ### Olá! Eu sou a Maria Luiza de Azevedo. 👋
 
 
-- 🔭 Faço estágio em Ciência de Dados e Analytics na Compass UOL
-- :notebook_with_decorative_cover: Estou no 3 semestre do curso Tecnologia em Ciência de Dados da UNINTER :chart_with_downwards_trend:
-
 
 
 
