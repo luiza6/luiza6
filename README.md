@@ -1,11 +1,11 @@
-### Olá! Meu nome é Maria Luiza de Azevedo. 👋
+### Olá! Meu nome é Maria Luiza de Azevedo. 👋😊
 
-* Estudante de Engenharia de Computação e Ciências de Dados
-* Estagiária em Engenharia de Analytics, atualmente atuo na migração de bases de dados on-premise para AWS.
-* Sou apaixonada por tecnologia, principalmente na área de dados e serviços na nuvem.
-* Tenho interesse em IA e conhecer suas aplicações na área de dados.
-* Meus hobbies favoritos são: fazer projetos com Arduino, assistir animes e correr ouvindo música (bom e velho rock 'n roll).
-* Amo estudar, sou proativa, gosto de  ambientes que estão em constante mudança e valorizo muito o compartilhamento de conhecimento.
+* Estudante de Engenharia de Computação e Ciências de Dados.👩🏻‍🎓
+* Estagiária em Engenharia de Analytics, atualmente atuo na migração de bases de dados on-premise para AWS.📈
+* Sou apaixonada por tecnologia, principalmente na área de dados e serviços na nuvem.💭
+* Tenho interesse em IA e conhecer suas aplicações na área de dados. 🤖
+* Meus hobbies favoritos são: fazer projetos com Arduino, assistir animes e correr ouvindo música (bom e velho rock 'n roll🤘).
+* Amo estudar, sou proativa, gosto de  ambientes que estão em constante mudança e valorizo muito o compartilhamento de conhecimento.❤️
 
 <div></div>
 
